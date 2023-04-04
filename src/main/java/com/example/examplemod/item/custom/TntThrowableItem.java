@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package com.example.examplemod.item.custom;
 
 import net.minecraft.world.item.SnowballItem;
 
